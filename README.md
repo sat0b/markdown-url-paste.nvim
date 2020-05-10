@@ -1,4 +1,5 @@
 # markdown-url-paste.nvim
+Neovim plugin to paste url into markdown.
 
 ## Install
 
